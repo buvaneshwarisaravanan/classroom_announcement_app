@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932140701736",
+    "project_id": "classroom-announcement-a-1f49b",
+    "storage_bucket": "classroom-announcement-a-1f49b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932140701736:android:9a88f6aabc682ce6bcbd1d",
+        "android_client_info": {
+          "package_name": "com.example.classroom_announcement_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1aN_tBsTypUMNodbHhxhppWrdVsWS05w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
